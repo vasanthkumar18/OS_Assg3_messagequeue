@@ -1,6 +1,4 @@
-==
 QUESTIONS
-==
 
 1.
 Consider the scenario where there are five students (ID: 1-5), a Teaching Assistant (TA)
